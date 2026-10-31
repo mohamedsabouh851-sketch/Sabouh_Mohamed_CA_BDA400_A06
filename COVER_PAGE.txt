@@ -1,0 +1,14 @@
+BDA400 – Data Science Tools and Techniques
+Assignment 6 – Technical Analysis using R, Visualization Phase
+Student: Sabouh Mohamed
+
+Project: Interactive R Shiny stock analysis dashboard with Yahoo Finance data, line / area / candlestick charts, SMA / RSI / MACD indicators, and crossover-based Buy/Sell/Hold signals.
+
+Public GitHub repository URL: https://github.com/mohamedsabouh851-sketch/Sabouh_Mohamed_CA_BDA400_A06
+
+How to run:
+1. Install R and RStudio.
+2. install.packages(c("shiny","ggplot2","quantmod","TTR","xts","zoo"))
+3. From the repository folder run shiny::runApp(".")
+
+Verification: Published code has not been executed in RStudio in this environment. Run it and verify all charts before submission.
